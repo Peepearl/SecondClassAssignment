@@ -1,0 +1,2 @@
+# SecondClassAssignment
+understanding python class
